@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D teal coin shaped like a rounded leaf, centered, filling 62 percent of the canvas, amber rim light on the lower right edge, smooth radial gradient background from deep teal to near black green, crisp, no text, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app splash background, deep teal to dark forest green gradient field with soft mint light blooms, cinematic, minimal, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, airy mint white gradient with a faint paper grain texture, very low contrast, calm editorial, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, soft blurred mint white field with a gentle pale teal glow, very low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "sprite_leaf_coin",
+      "type": "sprite",
+      "prompt": "One single glossy 3D teal coin with a small mint leaf on its face, centered icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_receipt",
+      "type": "sprite",
+      "prompt": "One single cute 3D rolled paper receipt, soft cream color, centered icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_wallet",
+      "type": "sprite",
+      "prompt": "One single glossy 3D soft mint wallet, closed, centered icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal mobile app CTA button background, teal to deep teal gradient, glossy, rounded corners, no text"
+    }
+  ]
+}

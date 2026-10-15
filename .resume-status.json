@@ -1,0 +1,8 @@
+{
+  "outcome": "running",
+  "fix_type": "transient",
+  "resume_from": "codegen",
+  "message": "Resuming from codegen (transient)…",
+  "log": "projects/BreezeLedger/.resume-20261015-025744.log",
+  "attempted_at_epoch": 1792025865
+}

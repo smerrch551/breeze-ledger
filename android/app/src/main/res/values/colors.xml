@@ -1,0 +1,6 @@
+<resources>
+    <!-- Splash background. Matches LoaderScreen's deep-teal gradient start so
+         the native launch window and the JS splash read as one continuous
+         frame instead of flashing a foreign colour. -->
+    <color name="splashBackground">#0E2B27</color>
+</resources>
